@@ -24,7 +24,6 @@ The program can be run with the default parameters for feature alignement with C
 
 ```python
 #Train for dSprites
-cd code/
 sh uga.sh
 ```
 Code was tested on a RTX 3090.
